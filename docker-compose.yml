@@ -10,13 +10,11 @@ services:
             - mynetwork
         volumes:
             - ./nginx/nginx.conf:/etc/nginx/nginx.conf
-            - ./nginx/letsencrypt:/etc/nginx/snippets/letsencrypt
-            - ./data/vertbot/conf:/etc/letsencrypt
-            - ./data/vertbot/www:/var/www/certbot
-            - ./db:/root/pki/db
-            - ./config:/root/pki/config
-            - ./certificates:/root/pki/certificates
-            - ./www:/var/html/www
+            - ./nginx/dhparam.pem:/etc/nginx/dhparam.pem
+            - ./data/vertbot/self-signed.conf:/etc/nginx/snippets/self-signed.conf
+            - ./data/vertbot/ssl-params.conf:/etc/nginx/snippets/ssl-params.conf
+            - ./https.pki.fredericpinaud.fr.crt:/etc/ssl/certs/nginx-selfsigned.cert
+            - ./certificates/https.pki.fredericpinaud.fr.key:/etc/ssl/private/nginx-selfsigned.key
             - ./www:/etc/nginx/html/
         ports:
             - 80:80

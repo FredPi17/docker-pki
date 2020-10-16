@@ -1,0 +1,91 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=FR, ST=Rhone Alpes, L=Grenoble, O=EPSI International Corp, OU=I2, CN=pki.fredericpinaud.fr/emailAddress=pki@fredericpinaud.fr
+        Validity
+            Not Before: Oct 16 09:22:25 2020 GMT
+            Not After : Jan  2 09:22:25 2029 GMT
+        Subject: C=FR, ST=Rhone Alpes, L=Grenoble, O=EPSI International Corp, OU=I2, CN=pki.fredericpinaud.fr/emailAddress=pki@fredericpinaud.fr
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:ec:76:86:f6:ab:40:46:50:c0:85:bd:72:bd:94:
+                    f2:aa:0e:74:91:b9:24:0f:62:20:e8:00:14:30:33:
+                    45:68:22:47:46:05:72:df:a0:fa:d0:7b:36:46:fe:
+                    e6:db:1c:38:f2:99:43:ee:c2:70:39:e3:1e:37:f1:
+                    82:14:5d:cd:0a:cc:54:bb:fa:85:1e:74:47:28:e0:
+                    f1:41:2b:95:3e:66:c7:57:f1:2e:25:09:c3:4b:a4:
+                    73:6e:80:e6:fc:49:1d:d9:c0:1b:29:d9:fe:5b:2a:
+                    ae:ee:b4:d0:e5:b4:42:29:87:26:42:64:58:38:f5:
+                    c8:34:e7:69:c9:a3:6c:9d:17:ad:fd:93:5f:fe:8f:
+                    fc:3e:ac:65:90:c0:5a:0c:ce:71:28:2d:49:af:f5:
+                    32:cb:3a:0e:ea:0a:f8:b2:7f:63:6d:89:66:a9:e5:
+                    c1:3d:70:29:61:f8:2c:5f:15:b0:6b:45:9b:ce:7b:
+                    b1:f2:c3:c1:ea:bd:d4:75:8f:64:d5:da:37:32:ef:
+                    1f:77:cb:51:c8:d0:70:49:ce:cb:89:91:5f:c4:d9:
+                    11:9c:35:3a:18:f9:b3:92:f1:7a:ac:02:2e:c2:b9:
+                    cd:96:eb:f0:80:75:5c:e3:eb:a5:1f:17:54:ea:74:
+                    90:ec:1f:67:46:71:cc:a8:a1:f0:9d:93:5f:ff:87:
+                    a9:17
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha256WithRSAEncryption
+         44:a8:56:97:3b:0f:2e:db:b9:42:76:f5:01:0f:1d:51:e1:de:
+         6f:79:0c:8c:d9:b0:33:48:27:69:b3:3b:4e:ba:06:a9:8d:78:
+         54:79:1f:f2:0c:d9:43:43:b5:95:ad:fb:fc:01:11:85:b8:ba:
+         d5:f2:b4:1f:d5:e7:f5:4d:a5:2b:3e:1e:ba:fd:17:79:9e:2c:
+         60:9b:43:78:7c:13:1b:a5:6c:8c:62:c3:6b:e8:36:fb:65:80:
+         dd:7b:66:4a:a0:0f:9d:62:3f:77:1c:c0:8a:54:7a:74:fb:ab:
+         06:2e:3c:45:2d:09:24:4b:35:d3:d2:96:03:52:84:5b:6f:c8:
+         56:39:4a:e5:9f:53:7b:57:c1:37:19:06:9a:a2:96:e8:17:3c:
+         21:76:d5:d7:f8:ec:a8:ec:e1:99:dc:ab:7b:11:f8:82:26:b8:
+         c8:8b:2d:be:5a:49:21:02:80:5b:66:c6:a7:91:52:16:25:86:
+         b5:02:b9:c0:a5:b7:a3:8c:0f:eb:a2:96:03:ca:0b:79:ed:a9:
+         90:9e:ad:95:65:a5:f7:e8:ef:92:97:12:0c:c9:00:83:73:b0:
+         b4:9c:22:c2:c1:8e:1e:53:b3:8f:b9:98:34:34:27:f1:53:5a:
+         25:83:c3:b5:e7:a3:91:5d:6d:2d:62:ca:f3:fe:79:8a:59:f8:
+         40:cb:00:61:32:d8:d1:b8:63:52:c1:30:44:52:ec:99:7c:7d:
+         47:c9:4b:50:c2:ef:ae:b8:8a:6f:77:f4:93:d4:78:a2:34:5f:
+         b9:a6:00:4e:d4:17:6b:b5:c8:e4:88:cd:af:6b:97:4b:d8:3b:
+         45:1a:7b:39:90:c2:ec:f0:3e:34:71:ea:f2:89:d9:9d:be:a1:
+         26:0a:d0:0a:80:46:7f:ff:84:90:7e:d1:2d:0d:fa:c7:4d:df:
+         70:b2:99:c6:28:80:68:2f:f8:6d:8d:92:86:a8:d3:28:9e:db:
+         fe:1b:c2:e6:59:e7:dd:b1:b4:c1:f2:18:7e:de:aa:d1:78:ec:
+         10:be:7f:b8:65:2c:94:9c:e7:f4:9f:40:4b:c9:e2:6c:c6:12:
+         73:67:1a:d7:8c:5e:d2:1f:77:87:e6:c3:70:d0:2a:55:36:5e:
+         43:53:97:5d:62:d2:06:16:04:ee:f3:21:52:62:c3:93:92:f3:
+         27:97:28:4d:cf:0f:41:13:b1:57:0b:cb:37:68:8f:fb:b6:97:
+         91:48:bc:91:e1:a5:63:fc:8a:85:a0:9a:6f:ad:52:75:5e:e6:
+         0f:5a:f8:b1:31:cd:b7:03:f5:93:71:61:a0:c7:f4:5f:27:f0:
+         5d:76:72:9a:4c:3b:97:9d:d1:27:7b:a0:53:f0:24:a1:43:13:
+         25:86:68:0e:85:76:17:82
+-----BEGIN CERTIFICATE-----
+MIIEzDCCArQCAQEwDQYJKoZIhvcNAQELBQAwgasxCzAJBgNVBAYTAkZSMRQwEgYD
+VQQIDAtSaG9uZSBBbHBlczERMA8GA1UEBwwIR3Jlbm9ibGUxIDAeBgNVBAoMF0VQ
+U0kgSW50ZXJuYXRpb25hbCBDb3JwMQswCQYDVQQLDAJJMjEeMBwGA1UEAwwVcGtp
+LmZyZWRlcmljcGluYXVkLmZyMSQwIgYJKoZIhvcNAQkBFhVwa2lAZnJlZGVyaWNw
+aW5hdWQuZnIwHhcNMjAxMDE2MDkyMjI1WhcNMjkwMTAyMDkyMjI1WjCBqzELMAkG
+A1UEBhMCRlIxFDASBgNVBAgMC1Job25lIEFscGVzMREwDwYDVQQHDAhHcmVub2Js
+ZTEgMB4GA1UECgwXRVBTSSBJbnRlcm5hdGlvbmFsIENvcnAxCzAJBgNVBAsMAkky
+MR4wHAYDVQQDDBVwa2kuZnJlZGVyaWNwaW5hdWQuZnIxJDAiBgkqhkiG9w0BCQEW
+FXBraUBmcmVkZXJpY3BpbmF1ZC5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAOx2hvarQEZQwIW9cr2U8qoOdJG5JA9iIOgAFDAzRWgiR0YFct+g+tB7
+Nkb+5tscOPKZQ+7CcDnjHjfxghRdzQrMVLv6hR50Ryjg8UErlT5mx1fxLiUJw0uk
+c26A5vxJHdnAGynZ/lsqru600OW0QimHJkJkWDj1yDTnacmjbJ0Xrf2TX/6P/D6s
+ZZDAWgzOcSgtSa/1Mss6DuoK+LJ/Y22JZqnlwT1wKWH4LF8VsGtFm857sfLDweq9
+1HWPZNXaNzLvH3fLUcjQcEnOy4mRX8TZEZw1Ohj5s5LxeqwCLsK5zZbr8IB1XOPr
+pR8XVOp0kOwfZ0ZxzKih8J2TX/+HqRcCAwEAATANBgkqhkiG9w0BAQsFAAOCAgEA
+RKhWlzsPLtu5Qnb1AQ8dUeHeb3kMjNmwM0gnabM7TroGqY14VHkf8gzZQ0O1la37
+/AERhbi61fK0H9Xn9U2lKz4euv0XeZ4sYJtDeHwTG6VsjGLDa+g2+2WA3XtmSqAP
+nWI/dxzAilR6dPurBi48RS0JJEs109KWA1KEW2/IVjlK5Z9Te1fBNxkGmqKW6Bc8
+IXbV1/jsqOzhmdyrexH4gia4yIstvlpJIQKAW2bGp5FSFiWGtQK5wKW3o4wP66KW
+A8oLee2pkJ6tlWWl9+jvkpcSDMkAg3OwtJwiwsGOHlOzj7mYNDQn8VNaJYPDteej
+kV1tLWLK8/55iln4QMsAYTLY0bhjUsEwRFLsmXx9R8lLUMLvrriKb3f0k9R4ojRf
+uaYATtQXa7XI5IjNr2uXS9g7RRp7OZDC7PA+NHHq8onZnb6hJgrQCoBGf/+EkH7R
+LQ36x03fcLKZxiiAaC/4bY2ShqjTKJ7b/hvC5lnn3bG0wfIYft6q0XjsEL5/uGUs
+lJzn9J9AS8nibMYSc2ca14xe0h93h+bDcNAqVTZeQ1OXXWLSBhYE7vMhUmLDk5Lz
+J5coTc8PQROxVwvLN2iP+7aXkUi8keGlY/yKhaCab61SdV7mD1r4sTHNtwP1k3Fh
+oMf0XyfwXXZymkw7l53RJ3ugU/AkoUMTJYZoDoV2F4I=
+-----END CERTIFICATE-----
