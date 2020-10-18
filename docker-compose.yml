@@ -13,7 +13,7 @@ services:
             - ./nginx/dhparam.pem:/etc/nginx/dhparam.pem
             - ./data/vertbot/self-signed.conf:/etc/nginx/snippets/self-signed.conf
             - ./data/vertbot/ssl-params.conf:/etc/nginx/snippets/ssl-params.conf
-            - ./https.pki.fredericpinaud.fr.crt:/etc/ssl/certs/nginx-selfsigned.cert
+            - ./certificates/https.pki.fredericpinaud.fr.crt:/etc/ssl/certs/nginx-selfsigned.cert
             - ./certificates/https.pki.fredericpinaud.fr.key:/etc/ssl/private/nginx-selfsigned.key
             - ./www:/etc/nginx/html/
         ports:
